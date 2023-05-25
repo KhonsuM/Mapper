@@ -1,11 +1,8 @@
 
-# Input File Name
 infile = input()
 
-# Output file name
 outfile = input()
 
-# Read Method Mappings
 methods = open("methods.txt" ,'r')
 fields = open("fields.txt", 'r')
 
